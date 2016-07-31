@@ -10,8 +10,8 @@
   },
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
-  "name": "The 10th Kingdom",
-  "version": "1.0",
+  "name": "The 10th Kingdom 1.1",
+  "version": "1.1",
   "author": "oMadMartigaNo",
   "files": [
     {
@@ -146,7 +146,7 @@
     },
     {
       "projectID": 237989,
-      "fileID": 2311578,
+      "fileID": 2318459,
       "required": true
     },
     {
@@ -220,6 +220,11 @@
       "required": true
     },
     {
+      "projectID": 242638,
+      "fileID": 2319486,
+      "required": true
+    },
+    {
       "projectID": 238222,
       "fileID": 2297414,
       "required": true
@@ -240,8 +245,8 @@
       "required": true
     },
     {
-      "projectID": 242638,
-      "fileID": 2319486,
+      "projectID": 226447,
+      "fileID": 2271089,
       "required": true
     }
   ],
