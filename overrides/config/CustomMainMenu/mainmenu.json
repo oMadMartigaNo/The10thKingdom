@@ -117,7 +117,7 @@
 			imageWidth : 100,
 			imageHeight : 50,
 			"alignment" : "top_center",
-			"hoverText" : "Snooooow!",
+			"hoverText" : "Wubbalubbadubdub!",
             "action" : 
             {
                 "type" : "quit"
@@ -178,11 +178,11 @@
                   
 		"packTxt":
         {
-            "text" : "The 10th Kingdom v1.1",
+            "text" : "The 10th Kingdom v1.2",
             "posX" : 5,
             "posY" : 5,
             "color" : -1,
-            "hoverText" : "I would love to change the world, but they won't give me the source code.",
+            "hoverText" : "Where are my testicles, Summer?",
             "alignment" : "top_left"
         }
     },
